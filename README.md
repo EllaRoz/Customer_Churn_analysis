@@ -54,9 +54,9 @@ Columns: 21 features + churn label
 
 ### Project structure
 project/
-├── data/
-├── notebooks/
-├── src/
-├── tableau/
-├── report/
-└── README.md
+|-- data/
+|-- notebooks/
+|-- src/
+|--tableau/
+|-- report/
+|__ README.md
